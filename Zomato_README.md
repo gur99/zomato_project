@@ -45,6 +45,8 @@ Zomato-Data-Science/
 ├── Notebooks/
 │ └── zomato_analysis.ipynb
 │
+├──.gitignore
+│
 └── README.md
 
 
