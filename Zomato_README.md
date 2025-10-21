@@ -39,10 +39,10 @@ Each line of code in this project is accompanied by a clear, professional explan
 ##  Project Structure
 Zomato-Data-Science/
 │
-├── data/
+├── Data/
 │ └── Data/zomato_rawdata.sqlite
 │
-├── notebooks/
+├── Notebooks/
 │ └── zomato_analysis.ipynb
 │
 └── README.md
