@@ -58,13 +58,14 @@ Zomato-Data-Science/
    git clone https://github.com/yourusername/Zomato-Data-Science.git
    cd Zomato-Data-Science
 
-2.Install dependencies:
+2. **Install dependencies:**
   pip install -r requirements.txt
 
-3. Launch Jupyter Notebook:
+3. **Launch Jupyter Notebook:**
    jupyter notebook
 
-4. Open the notebook (zomato_analysis.ipynb) and follow along — each cell is explained for better understanding.
+4. **Open the notebook**
+ (zomato_analysis.ipynb) and follow along — each cell is explained for better understanding.
 
 
 ## Learning Focus
